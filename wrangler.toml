@@ -1,0 +1,12 @@
+name = "influxflow-agency"
+pages_build_output_dir = "dist"
+
+[node_compat]
+enabled = true
+
+[env.production]
+# Add your environment variables here for Cloudflare
+# EMAIL_SERVICE = "zoho"
+# EMAIL_USER = "contact@influxflow.com"
+# EMAIL_PASS = "dzjTfA96NmHz"
+# EMAIL_HOST = "smtp.zoho.in"
