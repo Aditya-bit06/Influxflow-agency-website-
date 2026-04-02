@@ -1,7 +1,6 @@
 name = "influxflow-agency"
 pages_build_output_dir = "dist"
 
-node_compat = true
 
 [env.production]
 # Add your environment variables here for Cloudflare
